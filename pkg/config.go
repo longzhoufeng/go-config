@@ -1,5 +1,4 @@
-// Package config is an interface for dynamic configuration.
-package config
+package pkg
 
 import (
 	"context"
